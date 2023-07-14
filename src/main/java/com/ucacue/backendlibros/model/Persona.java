@@ -15,7 +15,6 @@ public abstract class Persona {
     private int id;
 
     private String nombre;
-    private String correo;
     private String apellido;
     private String nacionalidad;
     private String direccion;
